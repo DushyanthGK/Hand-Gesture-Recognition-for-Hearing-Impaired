@@ -1,0 +1,5 @@
+train: /content/yolov5/final_data/train/images
+val: /content/yolov5/final_data/test/images
+
+nc: 32
+names: ['A', 'B', 'Bye', 'C' ,'Call', 'D', 'E', 'F', 'G', 'H', 'Hi', 'Hello', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'w', 'Q', 'R', 'r', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
